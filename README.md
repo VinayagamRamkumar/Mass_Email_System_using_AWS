@@ -87,5 +87,7 @@ def lambda_handler(event, context):
      )
  return {"status": "Notifications sent"}
 ```
+---
+## Final Output
 ![Final Output](images/output.png)
 
