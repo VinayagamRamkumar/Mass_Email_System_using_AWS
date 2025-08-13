@@ -86,7 +86,6 @@ def lambda_handler(event, context):
          Message=f"Hello {contact}, this is a mass notification!"
      )
  return {"status": "Notifications sent"}
-
-
-
+```
 ![Final Output](images/output.png)
+
